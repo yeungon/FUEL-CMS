@@ -1,7 +1,7 @@
 <?php
 /*
  *---------------------------------------------------------------
- * FUEL INSTALL DIRECTORY
+ * FUEL INSTALL DIRECTORY - Thư mục cài đặt
  *---------------------------------------------------------------
  *
  * This is the directory path to the fuel installation folder
